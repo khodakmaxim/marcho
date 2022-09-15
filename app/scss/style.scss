@@ -135,8 +135,14 @@ display: flex;
     &__text{
         margin-bottom: 25px;
     }
+
+    &__form{
+        // display: flex;
+    }
+
     &__form-input{
     // background-color: #fff;
+    margin-right: 3px;
     max-width: 320px;
     width: 100%;
     border: none;
