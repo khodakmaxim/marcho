@@ -1,0 +1,10 @@
+@import 'vars'; /*переменные для цвета, шрифтов...*/
+@import 'fonts'; /*шрифты*/
+@import 'reset'; /*reset*/
+@import 'libs';
+@import 'global'; /*что написать на body, что всем ссылкам указать...*/
+@import '../module/_header/_header'; 
+@import '../module/_footer/_footer'; 
+@import '../module/_top/_top';
+@import '../module/_product/_product';
+
